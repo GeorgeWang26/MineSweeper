@@ -1,5 +1,5 @@
 //run MineSweeper
-public class Activate {
+public class Main {
 
 	public static void main(String[] args) {
 		//reset wins and looses to 0
